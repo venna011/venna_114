@@ -1,0 +1,44 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 30px;
+  background-color: #fff0f5; /* pink soft background */
+}
+
+header {
+  background-color: #ffd966; /* kuning pastel */
+  color: #4a4a4a;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2, h3, h4 {
+  color: #d63384; /* pink lebih tegas untuk judul */
+}
+
+form, #formAwal, #formPilihan, #formRadio, #formEmail {
+  background: #fffaf0; /* krem lembut */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+input, button {
+  padding: 8px;
+  margin-top: 6px;
+  border: 1px solid #ffd966;
+  border-radius: 6px;
+}
+
+button {
+  background-color: #ffb6c1; /* pink soft */
+  color: #4a4a4a;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff99aa; /* pink sedikit lebih pekat */
+}
+
